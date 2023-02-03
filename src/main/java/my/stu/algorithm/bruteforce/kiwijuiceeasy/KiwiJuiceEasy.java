@@ -1,4 +1,4 @@
-package my.stu.algorithm.kiwijuiceeasy;
+package my.stu.algorithm.bruteforce.kiwijuiceeasy;
 
 public class KiwiJuiceEasy {
 

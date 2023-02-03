@@ -1,11 +1,9 @@
-package my.stu.algorithm.kiwijuiceeasy;
+package my.stu.algorithm.bruteforce.kiwijuiceeasy;
 
-import org.junit.jupiter.api.DisplayName;
+import my.stu.algorithm.bruteforce.kiwijuiceeasy.KiwiJuiceEasy;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class KiwiJuiceEasyTest {
 
